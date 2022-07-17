@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 
 <div align='center'>
 
-<a href="www.linkedin.com/in/poornachandra07">![linkedIn](https://github.com/poornachandra07/redmeAssets/blob/main/linkedin.svg?raw=true)</a>
+<a href="https://www.linkedin.com/in/poornachandra07">![linkedIn](https://github.com/poornachandra07/redmeAssets/blob/main/linkedin.svg?raw=true)</a>
 <a href="https://www.instagram.com/poorna_nayak7">![Instagram](https://github.com/poornachandra07/redmeAssets/blob/main/IG.svg?raw=true)</a>
 <a href="https://twitter.com/poornamnayak">![Twitter](https://github.com/poornachandra07/redmeAssets/blob/main/twitter.svg?raw=true)</a>
 </div>
